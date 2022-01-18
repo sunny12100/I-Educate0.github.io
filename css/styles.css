@@ -6,7 +6,7 @@
 }
 
 .background {
-  background: rgba(0, 0, 0, 0.7) url('C:/Users/Sunny Gupta/Desktop/PROJECT 1/IMAGES/bg.jpg');
+  background: rgba(0, 0, 0, 0.7) url('IMAGES/bg.jpg');
   background-size: cover;
   background-blend-mode: darken;
 }
